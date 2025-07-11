@@ -8,6 +8,7 @@ Welcome to the **Text Compare Tool** – a simple yet useful Python CLI tool tha
 
 - Compare any two text inputs
 - Tells whether they are the same or different
+- Show deferences of words
 - Option to compare repeatedly
 - Clear and user-friendly messages
 - CLI-based lightweight tool
